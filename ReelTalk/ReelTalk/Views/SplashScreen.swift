@@ -13,7 +13,7 @@ struct SplashScreen: View {
     
     var body: some View {
         if isActive {
-            WelcomeScreen1View()
+            WelcomeScreenView()
         } else {
             VStack {
                 ZStack {
@@ -38,7 +38,7 @@ struct SplashScreen: View {
             }
         }
     }
-        }
+}
 
 #Preview {
     SplashScreen()
