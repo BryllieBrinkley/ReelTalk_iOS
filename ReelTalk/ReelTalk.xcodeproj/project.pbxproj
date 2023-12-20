@@ -11,7 +11,18 @@
 		467F16602B2FD6D200BA59D5 /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467F165F2B2FD6D200BA59D5 /* SplashScreen.swift */; };
 		467F16622B2FD6D600BA59D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 467F16612B2FD6D600BA59D5 /* Assets.xcassets */; };
 		467F16652B2FD6D600BA59D5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 467F16642B2FD6D600BA59D5 /* Preview Assets.xcassets */; };
-		467F166E2B2FEB1F00BA59D5 /* WelcomeScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467F166D2B2FEB1F00BA59D5 /* WelcomeScreenView.swift */; };
+		467F166E2B2FEB1F00BA59D5 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467F166D2B2FEB1F00BA59D5 /* WelcomeView.swift */; };
+		4696911F2B326DE200B09796 /* GenreSelectionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4696911E2B326DE200B09796 /* GenreSelectionButton.swift */; };
+		4698B68E2B321ED70077907A /* RoutingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4698B68D2B321ED70077907A /* RoutingController.swift */; };
+		46C761C12B30FF3700CB0515 /* PushNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C761C02B30FF3700CB0515 /* PushNotificationView.swift */; };
+		46C761C32B30FFC900CB0515 /* FinalOnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C761C22B30FFC900CB0515 /* FinalOnboardingView.swift */; };
+		46C761CB2B32099900CB0515 /* GenreSelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C761CA2B32099900CB0515 /* GenreSelectionView.swift */; };
+		46C9D5982B32865900F6AD09 /* GenreSelectionHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C9D5972B32865900F6AD09 /* GenreSelectionHeader.swift */; };
+		46C9D59B2B32A70700F6AD09 /* MovieSelectionHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C9D59A2B32A70700F6AD09 /* MovieSelectionHeader.swift */; };
+		46C9D59E2B32ADAC00F6AD09 /* SelectTVShowsHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C9D59D2B32ADAC00F6AD09 /* SelectTVShowsHeader.swift */; };
+		46C9D5A02B32AE7A00F6AD09 /* MovieSelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C9D59F2B32AE7A00F6AD09 /* MovieSelectionView.swift */; };
+		46C9D5A22B32AE8D00F6AD09 /* TVShowSelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C9D5A12B32AE8D00F6AD09 /* TVShowSelectionView.swift */; };
+		46C9D5A42B32B8C800F6AD09 /* GuidelineAgreementView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C9D5A32B32B8C800F6AD09 /* GuidelineAgreementView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,7 +31,18 @@
 		467F165F2B2FD6D200BA59D5 /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
 		467F16612B2FD6D600BA59D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		467F16642B2FD6D600BA59D5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		467F166D2B2FEB1F00BA59D5 /* WelcomeScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeScreenView.swift; sourceTree = "<group>"; };
+		467F166D2B2FEB1F00BA59D5 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		4696911E2B326DE200B09796 /* GenreSelectionButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenreSelectionButton.swift; sourceTree = "<group>"; };
+		4698B68D2B321ED70077907A /* RoutingController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoutingController.swift; sourceTree = "<group>"; };
+		46C761C02B30FF3700CB0515 /* PushNotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PushNotificationView.swift; sourceTree = "<group>"; };
+		46C761C22B30FFC900CB0515 /* FinalOnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalOnboardingView.swift; sourceTree = "<group>"; };
+		46C761CA2B32099900CB0515 /* GenreSelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenreSelectionView.swift; sourceTree = "<group>"; };
+		46C9D5972B32865900F6AD09 /* GenreSelectionHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenreSelectionHeader.swift; sourceTree = "<group>"; };
+		46C9D59A2B32A70700F6AD09 /* MovieSelectionHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieSelectionHeader.swift; sourceTree = "<group>"; };
+		46C9D59D2B32ADAC00F6AD09 /* SelectTVShowsHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectTVShowsHeader.swift; sourceTree = "<group>"; };
+		46C9D59F2B32AE7A00F6AD09 /* MovieSelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieSelectionView.swift; sourceTree = "<group>"; };
+		46C9D5A12B32AE8D00F6AD09 /* TVShowSelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TVShowSelectionView.swift; sourceTree = "<group>"; };
+		46C9D5A32B32B8C800F6AD09 /* GuidelineAgreementView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuidelineAgreementView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +75,8 @@
 		467F165C2B2FD6D200BA59D5 /* ReelTalk */ = {
 			isa = PBXGroup;
 			children = (
+				4698B6902B3220860077907A /* Controllers */,
+				4698B68F2B3220770077907A /* Models */,
 				467F165D2B2FD6D200BA59D5 /* ReelTalkApp.swift */,
 				467F166B2B2FEAB000BA59D5 /* Views */,
 				467F16612B2FD6D600BA59D5 /* Assets.xcassets */,
@@ -74,6 +98,9 @@
 			children = (
 				467F165F2B2FD6D200BA59D5 /* SplashScreen.swift */,
 				467F166C2B2FEAE500BA59D5 /* Onboarding */,
+				46C761C82B32093B00CB0515 /* Genre Selection */,
+				46C9D5992B32A6C300F6AD09 /* Movie Selection */,
+				46C9D59C2B32AD8300F6AD09 /* TV Show Selection */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -81,9 +108,55 @@
 		467F166C2B2FEAE500BA59D5 /* Onboarding */ = {
 			isa = PBXGroup;
 			children = (
-				467F166D2B2FEB1F00BA59D5 /* WelcomeScreenView.swift */,
+				467F166D2B2FEB1F00BA59D5 /* WelcomeView.swift */,
+				46C761C02B30FF3700CB0515 /* PushNotificationView.swift */,
+				46C761C22B30FFC900CB0515 /* FinalOnboardingView.swift */,
+				46C9D5A32B32B8C800F6AD09 /* GuidelineAgreementView.swift */,
 			);
 			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		4698B68F2B3220770077907A /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		4698B6902B3220860077907A /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				4698B68D2B321ED70077907A /* RoutingController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		46C761C82B32093B00CB0515 /* Genre Selection */ = {
+			isa = PBXGroup;
+			children = (
+				46C761CA2B32099900CB0515 /* GenreSelectionView.swift */,
+				4696911E2B326DE200B09796 /* GenreSelectionButton.swift */,
+				46C9D5972B32865900F6AD09 /* GenreSelectionHeader.swift */,
+			);
+			path = "Genre Selection";
+			sourceTree = "<group>";
+		};
+		46C9D5992B32A6C300F6AD09 /* Movie Selection */ = {
+			isa = PBXGroup;
+			children = (
+				46C9D59A2B32A70700F6AD09 /* MovieSelectionHeader.swift */,
+				46C9D59F2B32AE7A00F6AD09 /* MovieSelectionView.swift */,
+			);
+			path = "Movie Selection";
+			sourceTree = "<group>";
+		};
+		46C9D59C2B32AD8300F6AD09 /* TV Show Selection */ = {
+			isa = PBXGroup;
+			children = (
+				46C9D59D2B32ADAC00F6AD09 /* SelectTVShowsHeader.swift */,
+				46C9D5A12B32AE8D00F6AD09 /* TVShowSelectionView.swift */,
+			);
+			path = "TV Show Selection";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -156,8 +229,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				467F166E2B2FEB1F00BA59D5 /* WelcomeScreenView.swift in Sources */,
+				46C9D5A02B32AE7A00F6AD09 /* MovieSelectionView.swift in Sources */,
+				4696911F2B326DE200B09796 /* GenreSelectionButton.swift in Sources */,
+				46C761C12B30FF3700CB0515 /* PushNotificationView.swift in Sources */,
+				46C9D59E2B32ADAC00F6AD09 /* SelectTVShowsHeader.swift in Sources */,
+				46C9D5A42B32B8C800F6AD09 /* GuidelineAgreementView.swift in Sources */,
+				4698B68E2B321ED70077907A /* RoutingController.swift in Sources */,
+				467F166E2B2FEB1F00BA59D5 /* WelcomeView.swift in Sources */,
+				46C9D5982B32865900F6AD09 /* GenreSelectionHeader.swift in Sources */,
 				467F16602B2FD6D200BA59D5 /* SplashScreen.swift in Sources */,
+				46C9D59B2B32A70700F6AD09 /* MovieSelectionHeader.swift in Sources */,
+				46C9D5A22B32AE8D00F6AD09 /* TVShowSelectionView.swift in Sources */,
+				46C761C32B30FFC900CB0515 /* FinalOnboardingView.swift in Sources */,
+				46C761CB2B32099900CB0515 /* GenreSelectionView.swift in Sources */,
 				467F165E2B2FD6D200BA59D5 /* ReelTalkApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -300,6 +384,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -329,6 +414,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
