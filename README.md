@@ -1,5 +1,5 @@
 # ReelTalk_iOS
-ReelTalk is a mobile app designed specifically for movie and TV show enthusiasts. The technologies I used in this project include Swift, SwiftUI, XCode, and Figma.
+ReelTalk is an iOS app that is specifically designed for movie and TV show enthusiasts. The technologies I used in this project were Swift, SwiftUI, XCode, and Figma.
 
 
 ## Features
